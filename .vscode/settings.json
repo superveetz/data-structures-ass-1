@@ -1,0 +1,5 @@
+{
+    "mingw.cxxflags": [
+        "-I/path/to/my/include/directory"
+    ]
+}
