@@ -1,5 +1,10 @@
 # C++ Data Structures - Assignment 1
 
+- Singly Linked Lists
+- Doubly Linked Lists
+- Priority Queues
+- Stacks
+
 ### Install and Build Instructions
 - Install `MinGW` to `C:/MinGW/`: [https://www.ics.uci.edu/~pattis/common/handouts/mingweclipse/mingw.html](https://www.ics.uci.edu/~pattis/common/handouts/mingweclipse/mingw.html)
 - run `git clone https://github.com/superveetz/data-structures-ass-1.git`
