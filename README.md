@@ -1,1 +1,13 @@
-# data-structures-ass-1
+# C++ Data Structures - Assignment 1
+
+### Install and Build Instructions
+- Install `MinGW` to `C:/MinGW/`: [https://www.ics.uci.edu/~pattis/common/handouts/mingweclipse/mingw.html](https://www.ics.uci.edu/~pattis/common/handouts/mingweclipse/mingw.html)
+- run `git clone https://github.com/superveetz/data-structures-ass-1.git`
+- run `mkdir build`
+- run `cd build`
+- run `cmake -DCMAKE_C_COMPILER="C:/MinGW/bin/gcc.exe" -DCMAKE_CXX_COMPILER="C:/MinGW/bin/g++.exe .."`
+- run `make`
+- run `bin/debug/assignment.exe` to run tests
+
+### Otherwise 
+- run `assignment.exe` to run tests without building them
