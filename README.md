@@ -6,7 +6,7 @@
 - run `git submodule update --init` to include testing library
 - run `mkdir build`
 - run `cd build`
-- run `cmake -DCMAKE_C_COMPILER="C:/MinGW/bin/gcc.exe" -DCMAKE_CXX_COMPILER="C:/MinGW/bin/g++.exe" ..`
+- run `cmake -DCMAKE_C_COMPILER="C:/MinGW/bin/gcc.exe" -DCMAKE_CXX_COMPILER="C:/MinGW/bin/g++.exe" -G "MinGW Makefiles" ..`
 - run `make`
 - run `bin/debug/assignment.exe` to run tests
 
